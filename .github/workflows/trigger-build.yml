@@ -1,0 +1,15 @@
+name: Trigger Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Webhook
+      uses: zzzze/webhook-trigger@master
+      with:
+        data: "{\"request\": {\"branch\":\"travis\"}}"
+        webhook_url: ${{ secrets.WEBHOOK_URL }}
+        options: "-H \"Accept: application/json\" -H \"Authorization: token ${{ secrets.TOKEN }}\" -H \"Travis-API-Version: 3\""
