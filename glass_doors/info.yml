@@ -1,6 +1,6 @@
-- name: 'Glass Doors'
-  description: 'Replace normal doors with glass doors!'
-  authors: ['RobertR11']
-  download_url: 'https://www.dropbox.com/s/3x3immul26zxxj1/Glass%20Doors%20Addon%20for%20Faithful%201.14.zip'
-  screenshots_url: ''
-  website_url: ''
+- name: Glass Doors
+  description: Replace normal doors with glass doors!
+  authors:
+    RobertR11:
+  urls:
+    download: https://www.dropbox.com/s/3x3immul26zxxj1/Glass%20Doors%20Addon%20for%20Faithful%201.14.zip

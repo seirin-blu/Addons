@@ -1,6 +1,10 @@
-- name: 'Faithful 3D'
-  description: 'Discover Faithful with more depth!'
-  authors: ['Juknum', 'Progical', 'Howler']
-  download_url: 'https://sites.google.com/view/faithful-3d-addon/download'
-  screenshots_url: 'https://sites.google.com/view/faithful-3d-addon/home/blocks_list'
-  website_url: 'https://sites.google.com/view/faithful-3d-addon'
+- name: Faithful 3D
+  description: Discover Faithful with more depth!
+  authors: 
+    Juknum: https://twitter.com/Juknum_
+    Progical:
+    Howler: https://twitter.com/UnlikeHowler
+  urls:
+    download: https://sites.google.com/view/faithful-3d-addon/download
+    screenshots: https://sites.google.com/view/faithful-3d-addon/home/blocks_list
+    website: https://sites.google.com/view/faithful-3d-addon
