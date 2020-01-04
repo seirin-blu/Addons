@@ -1,5 +1,5 @@
 # Adding addon Guide
-1. Create folder with *unique name*. (**Example**: faithful_mobs)
+1. Create folder with *unique name* and *lowercase*. (**Example**: faithful_mobs)
 2. Add in folder image file and `info.yml`
 3. Edit `info.yml`
 
