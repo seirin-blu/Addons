@@ -1,9 +1,7 @@
-  name: Zombie With Skull
+- name: Zombie With Skull Showing
   description: This is an edited version of the zombie so that it has a skull showing underneath its flesh. This is not a 3d texture, but rather uses the "hat" feature of the zombie texture.
-  authors: Sei
-    YOUR_NICKNAME: https://twitter.com/Casilios
-    NICKNAME_OF_YOUR_TEAMMATE:
+  authors: 
+    Sei: https://twitter.com/Casilios
   urls:
     download: https://drive.google.com/open?id=1SJoGQXRuvKzSPqdz_NXCqDYWNsuulZGm
     screenshots: https://imgur.com/a/WjuP5NS
-    website: 
