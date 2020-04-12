@@ -1,9 +1,7 @@
-name: Unobtrusive Rain
+- name: Unobtrusive Rain
   description: Edits the faithful rain to 0% saturation and 20% opacity to make it less obtrusive while playing
-  authors: Sei
-    YOUR_NICKNAME: https://twitter.com/Casilios
-    NICKNAME_OF_YOUR_TEAMMATE:
+  authors: 
+    Sei: https://twitter.com/Casilios
   urls:
     download: https://drive.google.com/open?id=1jhE8BI-waZeEaXrUPbuADdV__NZW8sZ5
     screenshots: https://imgur.com/a/GBhiRWg
-    website: 
